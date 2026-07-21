@@ -1,0 +1,11 @@
+This project demonstrates how to combine multiple datasets and retrieve related information using Excel's powerful lookup functions. Functions such as VLOOKUP, XLOOKUP, INDEX-MATCH, and XMATCH are used to merge data efficiently, eliminate redundancy, and create integrated datasets for business analysis. The project reflects real-world scenarios where information is retrieved across multiple tables.
+
+Key Skills Demonstrated:
+VLOOKUP
+XLOOKUP
+INDEX-MATCH
+XMATCH
+Data Merging
+Data Retrieval
+Relational Data Analysis
+Advanced Excel Functions
