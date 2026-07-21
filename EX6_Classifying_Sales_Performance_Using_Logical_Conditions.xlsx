@@ -1,0 +1,10 @@
+This project demonstrates the use of Excel's logical functions to classify retail sales performance based on predefined business rules. Multiple conditional formulas such as IF, IFS, AND, OR, and Nested IF are implemented to categorize sales, discounts, profitability, and customer performance into meaningful business segments. The project highlights how logical decision-making can automate data classification and support business reporting.
+
+Key Skills Demonstrated:
+Logical Functions (IF, IFS, AND, OR)
+Nested IF Statements
+Business Rule Implementation
+Sales Performance Classification
+Decision-Making Models
+Data Categorization
+Advanced Excel Formulas
